@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/SampleWebApp" version="1.0.0" viewmodes="maximized">
+    <access origin="http://code.jquery.com" subdomains="true"/>
+    <tizen:application id="yKe9OUXaXP" required_version="1.0"/>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>SampleWebApp</name>
+</widget>
